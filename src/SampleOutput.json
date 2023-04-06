@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Holly Ellyatt",
+      "title": "Ukraine welcomes home 'heroes' after prisoner swap; Russian mobilization sparks anti-war protests - CNBC",
+      "description": "Anti-war protests have erupted in Russia after Putin announced a partial mobilization of the military that will see 300,000 reservists sent to Ukraine.",
+      "url": "https://www.cnbc.com/2022/09/22/russia-ukraine-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107122618-1663831400385-gettyimages-1243417125-AA_22092022_874650.jpeg?v=1663832127&w=1920&h=1080",
+      "publishedAt": "2022-09-22T10:32:00Z",
+      "content": "A top Ukrainian official has described Russia's announcement of a partial mobilization of its military as a \"great tragedy\" for the Russian people.\r\nThe move, announced by President Putin on Wednesda… [+886 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Nicole Goodkind, CNN Business",
+      "title": "Fed goes big again with third-straight three-quarter-point rate hike - CNN",
+      "description": "The Federal Reserve made history on Wednesday, approving a third consecutive 75-basis-point hike in an aggressive move to tackle the white-hot inflation that has been plaguing the US economy.",
+      "url": "https://www.cnn.com/2022/09/21/economy/fed-rate-hike-september/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220919174251-01-jerome-powell-news-conference-072722-super-tease.jpg",
+      "publishedAt": "2022-09-22T08:41:00Z",
+      "content": "Washington, DC (CNN Business)The Federal Reserve made history on Wednesday, approving a third consecutive 75-basis-point hike in an aggressive move to tackle the white-hot inflation that has been pla… [+3069 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Scott Thompson",
+      "title": "Celtics' Ime Udoka could face 'significant suspension' for violating team guidelines: report - Fox News",
+      "description": "Ime Udoka is facing a possible suspension for violating organization guidelines, ESPN reports. A suspension could be announced as early as Thursday.",
+      "url": "https://www.foxnews.com/sports/celtics-ime-udoka-could-face-significant-suspension-violating-team-guidelines-report",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/ImeUdoka.jpg",
+      "publishedAt": "2022-09-22T08:31:34Z",
+      "content": "Boston Celtics head coach Ime Udoka could be facing a \"significant suspension\" for violating organizational guidelines. \r\nIts unspecified what violation occurred, but ESPN reports the \"possible disci… [+1441 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Andrea Vacchiano",
+      "title": "Coors Light beer drenches Florida highway after semi-trailer crash - Fox News",
+      "description": "Florida Highway Patrol said a semi-trailer crash on Wednesday resulted in hundreds of beer cans covering an interstate after one vehicle failed to brake.",
+      "url": "https://www.foxnews.com/us/coors-light-beer-drenches-florida-highway-semitrailer-crash",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/AP22264730960701.jpg",
+      "publishedAt": "2022-09-22T08:28:57Z",
+      "content": "A semi-trailer driving through Florida crashed early Wednesday morning closing down the highway and saturating it with Coors Light beer.\r\nAuthorities closed down a southbound portion of Interstate-75… [+1086 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Jessie Yeung, Jomana Karadsheh, Ramin Mostaghim, Sahar Akbarzai",
+      "title": "Iran protests rage as Mahsa Amini's father says authorities lied about her death - CNN",
+      "description": "The father of an Iranian woman who died in police custody last week has accused authorities of lying about her death, as protests rage nationwide despite the government's attempt to curb dissent with an internet blackout.",
+      "url": "https://www.cnn.com/2022/09/22/middleeast/iran-protests-mahsa-amini-father-internet-blackout-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220921124533-demonstrators-iran-amini.jpg?q=w_800,c_fill",
+      "publishedAt": "2022-09-22T07:59:00Z",
+      "content": "The father of an Iranian woman who died in police custody last week has accused authorities of lying about her death, as protests rage nationwide despite the governments attempt to curb dissent with … [+5657 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "U.S. appeals court says Trump criminal probe can resume classified records review - Reuters",
+      "description": "The U.S. Justice Department can resume reviewing classified records seized by the FBI from former President Donald Trump's Florida home pending appeal, a federal appellate court ruled on Wednesday, giving a boost to the criminal investigation into whether the…",
+      "url": "https://www.reuters.com/legal/us-court-lets-investigators-resume-review-classified-records-trump-probe-2022-09-21/",
+      "urlToImage": "https://www.reuters.com/resizer/CZsRc2STuBRySPW6ky36xr_K9eo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BAG7D6H7MNOCVPRHSCPSW5FUYY.jpg",
+      "publishedAt": "2022-09-22T07:51:00Z",
+      "content": "WASHINGTON, Sept 21 (Reuters) - The U.S. Justice Department can resume reviewing classified records seized by the FBI from former President Donald Trump's Florida home pending appeal, a federal appel… [+4928 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Holly Ellyatt",
+      "title": "The far-right is expected to win Italy's election in Rome's biggest political shift for decades - CNBC",
+      "description": "Italy's voters head to the polls on Sunday in a snap general election that is likely to see a government led by a far-right party come to power.",
+      "url": "https://www.cnbc.com/2022/09/22/italian-election-italy-turns-to-the-right-with-fdis-georgia-meloni.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105028155-GettyImages-924068802.jpg?v=1663830519&w=1920&h=1080",
+      "publishedAt": "2022-09-22T07:08:39Z",
+      "content": "Atmosphere during Giorgia Meloni's rally in Cagliari to launch her campaign for Italy's next general election at Cagliari on September 02, 2022 in Cagliari, Italy. Italians head to the polls for gene… [+7414 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Mary Clare Jalonick",
+      "title": "House passes election law overhaul in response to Jan. 6 - The Associated Press",
+      "description": "WASHINGTON (AP) — The House has passed legislation to overhaul the rules for certifying the results of a presidential election as lawmakers accelerate their response to the Jan.",
+      "url": "https://apnews.com/article/2022-midterm-elections-donald-trump-presidential-constitutions-election-2020-32c6ea94829f95d11f7696d2cba542b6",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/093251b96a0149aba529aae60ef4d793/2811.jpeg",
+      "publishedAt": "2022-09-22T06:57:45Z",
+      "content": "WASHINGTON (AP) The House has passed legislation to overhaul the rules for certifying the results of a presidential election as lawmakers accelerate their response to the Jan. 6, 2021, insurrection a… [+6621 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Karen Bass, Rick Caruso get in fiery debate over LA homeless crisis, crimes - FOX 11 Los Angeles",
+      "description": "Mayoral candidates Karen Bass and Rick Caruso got in a fiery debate as the two discussed LA's major issues.Subscribe to FOX 11 Los Angeles: https://www.youtu...",
+      "url": "https://www.youtube.com/watch?v=4Y0a1W9pGwc",
+      "urlToImage": "https://i.ytimg.com/vi/4Y0a1W9pGwc/hqdefault.jpg",
+      "publishedAt": "2022-09-22T05:44:52Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Kevin Liptak, CNN",
+      "title": "Biden tells the United Nations that Putin's attempts to 'extinguish' Ukraine should 'make your blood run cold' - CNN",
+      "description": "President Joe Biden on Wednesday declared Russia's invasion of Ukraine a violation of the global order, sharpening his rebukes of President Vladimir Putin as the war entered a tense new moment.",
+      "url": "https://www.cnn.com/2022/09/21/politics/joe-biden-united-nations-general-assembly/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220915115300-04-biden-rose-garden-0915-super-tease.jpg",
+      "publishedAt": "2022-09-22T05:30:00Z",
+      "content": "United Nations (CNN)President Joe Biden on Wednesday declared Russia's invasion of Ukraine a violation of the global order, sharpening his rebukes of President Vladimir Putin as the war entered a ten… [+10996 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Jason Owens",
+      "title": "Fans who snag Aaron Judge home run balls face a choice: Cash in or take one for the team - Yahoo Sports",
+      "description": "Would you trade a ball that's worth a small fortune for some autographed gear and a meet-and-greet? One Yankees fan did on Tuesday.",
+      "url": "https://sports.yahoo.com/fans-who-snag-aaron-judge-home-run-balls-face-a-choice-cash-in-or-take-one-for-the-team-051927392.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/x9U5FHGKqiyTDbVKWgRHOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-09/0b86ebf0-3a36-11ed-bb72-6b991dfb7ac5",
+      "publishedAt": "2022-09-22T05:19:00Z",
+      "content": "For the rest of the season, an outfield seat to a New York Yankees game is a lottery ticket.\r\nIf you were lucky enough to hit it, what would you do? It's a question every fan with their sights set on… [+4520 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "Former Khmer Rouge leader Khieu Samphan loses genocide appeal - Al Jazeera English",
+      "description": "Ruling marks the final decision by the court and ends 16 years of work by the UN-backed war crimes tribunal in Cambodia.",
+      "url": "https://www.aljazeera.com/news/2022/9/22/former-khmer-rouge-leaders-appeal-in-cambodia-genocide-case",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/09/KHIEU-SAMPHAN-LATE-MAY-1975-KC580.jpg?resize=1920%2C1440",
+      "publishedAt": "2022-09-22T05:16:46Z",
+      "content": "The last surviving senior leader of Cambodias radical Khmer Rouge regime has had an appeal against his conviction for genocide rejected at a war crimes tribunal in the capital Phnom Penh.\r\nThe ruling… [+11640 chars]"
+    },
+    {
+      "source": { "id": "independent", "name": "Independent" },
+      "author": "Eric Garcia",
+      "title": "How Alexandria Ocasio-Cortez inadvertently sparked the New York attorney general's Trump lawsuit - The Independent",
+      "description": "‘This investigation only started after Michael Cohen ... testified before Congress shed light on this misconduct,’ Letitia James says",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/aoc-new-york-sues-donald-trump-b2172684.html",
+      "urlToImage": "https://static.independent.co.uk/2022/09/21/19/GettyImages-1127850188.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2022-09-22T04:55:52Z",
+      "content": "On Wednesday, New York Attorney General Letitia James announced her $250m civil lawsuit against former president Donald Trump, she specifically cited former Trump attorney Michael Cohens testimony in… [+1888 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "David Propper",
+      "title": "Jamie Dimon says stopping oil and gas production would be 'road to hell' for US - New York Post ",
+      "description": "The bank CEO sparred with a lefty congresswoman during a hearing Wednesday.",
+      "url": "https://nypost.com/2022/09/22/jamie-dimon-assails-stopping-oil-and-gas-production-in-us/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/09/jamie-dimon-assails-stopping-us-oil-production-001-copy.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2022-09-22T04:46:00Z",
+      "content": "JPMorgan Chase CEO Jamie Dimon said slamming the brakes on new oil and gas production would be the road to hell for America after Rep. Rashida Tlaib asked him to divest in oil.\r\nPart of the Congressi… [+1276 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hollywood Reporter" },
+      "author": "Christy Piña",
+      "title": "Olivia Wilde Addresses Shia LaBeouf, Florence Pugh and Harry Styles, Chris Pine’s Spit-Gate - Hollywood Reporter",
+      "description": "Olivia Wilde doesn’t want Stephen Colbert to worry about the various rumors surrounding her new movie. The Don’t Worry Darling director and actress is a guest on CBS’ The Late Show on Wednesday ahead of the Warner Bros. film’s release this Friday, where she a…",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/olivia-wilde-dont-worry-darling-harry-styles-spitgate-1235225233/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/09/Olivia_Wilde_Stephen_Colbert_photo_by_Scott_Kowalchyk_CBS.jpg?w=1024",
+      "publishedAt": "2022-09-22T04:40:35Z",
+      "content": "Olivia Wilde doesn’t want Stephen Colbert to worry about the various rumors surrounding her new movie.\r\nThe Don’t Worry Darling director and actress is a guest on CBS’ The Late Show on Wednesday ahea… [+3053 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Jacqueline Alemany, Azi Paybarah",
+      "title": "Ginni Thomas to meet with January 6 committee - The Washington Post",
+      "description": "The conservative activist and wife of Supreme Court Justice Clarence Thomas will be interviewed by the committee in the coming weeks.",
+      "url": "https://www.washingtonpost.com/politics/2022/09/21/ginni-thomas-january-6-interview/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/STCEC3QMSRBXJHIKGV2WVRMSZM.jpg&w=1440",
+      "publishedAt": "2022-09-22T03:58:00Z",
+      "content": "The House select committee investigating the Jan. 6, 2021, insurrection has reached an agreement with Virginia Ginni Thomas, the wife of Supreme Court Justice Clarence Thomas, to be interviewed by th… [+2332 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "Baxter Holmes",
+      "title": "Suns CEO Jason Rowley fields staffers' questions on organization's post-Robert Sarver era future and other issues, sources say - ESPN",
+      "description": "During an all-staff call, CEO Jason Rowley talked about the organization's post-Robert Sarver era future, whether punishment would be imminent for any specific leaders in a lengthy pattern of workplace misconduct, and other issues, sources told ESPN.",
+      "url": "https://www.espn.com/nba/story/_/id/34639554/suns-ceo-jason-rowley-fields-staffers-questions-organization-post-robert-sarver-era-future-other-issues-sources-say",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0621%2Fr710828_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-09-22T02:20:17Z",
+      "content": "During an all-employees call Wednesday afternoon, held just hours after majority owner Robert Sarver announced that he would be selling the Phoenix Suns, the team's president and CEO, Jason Rowley, a… [+4146 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Investor's Business Daily" },
+      "author": "Investor's Business Daily",
+      "title": "Futures: Stocks Sell Off As Fed Sees New 'Terminal' Rate - Investor's Business Daily",
+      "description": "The Fed hiked rates by 75 basis points and forecast a lot more.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-sells-off-as-hawkish-fed-sees-new-terminal-rate/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2022/06/Stock-jeromepowell2022-05-gov.jpg",
+      "publishedAt": "2022-09-22T02:01:00Z",
+      "content": "Dow Jones futures fell overnight, along with S&amp;P 500 futures and Nasdaq futures. The stock market whipsawed sharply lower Wednesday after the Federal Reserve hiked aggressively once again and sig… [+7515 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Variety" },
+      "author": "Selome Hailu",
+      "title": "Philadelphia Flyers Mascot Gritty on His ‘Abbott Elementary’ Cameo: ‘I’m Not in the Business of Explaining Myself’ (EXCLUSIVE) - Variety",
+      "description": "School is back in session at “Abbott Elementary,” this time with high-profile guest stars such Leslie Odom Jr. and … Gritty, the famous mascot of the Philadelphia Flyers. The fuzzy orange hockey supporter plays himself in the Season 2 premiere, titled “Develo…",
+      "url": "https://variety.com/2022/tv/news/abbott-elementary-gritty-philadelphia-flyers-mascot-1235379725/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2022/09/164605_2910-e1663794059406.jpg?w=1024",
+      "publishedAt": "2022-09-22T01:31:00Z",
+      "content": "School is back in session at “Abbott Elementary,” this time with high-profile guest stars such Leslie Odom Jr. and … Gritty, the famous mascot of the Philadelphia Flyers. \r\nThe fuzzy orange hockey su… [+3068 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Operatives linked to DeSantis promised to fly migrants to Delaware — but left them stranded - Miami Herald",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiSGh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9uZXdzL2xvY2FsL2ltbWlncmF0aW9uL2FydGljbGUyNjYwODk3NzEuaHRtbNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-09-22T01:29:00Z",
+      "content": null
+    }
+  ]
+}
